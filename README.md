@@ -1,5 +1,7 @@
 # Overview
 
+> **WARNING: do not use in production. Temporary fork of [charm-keystone](https://github.com/openstack/charm-keystone) containing [this fix](https://review.opendev.org/#/c/729781/).
+
 This charm provides Keystone, the OpenStack identity service. Its target
 platform is (ideally) Ubuntu LTS + OpenStack.
 
